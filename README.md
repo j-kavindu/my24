@@ -2,7 +2,14 @@
 
 A native Android productivity and daily planning app built with Kotlin and Jetpack Compose.
 
-**[Download My 24 v1.0.1](https://github.com/j-kavindu/my24/releases/tag/v1.0.1)** · **[Download APK](https://github.com/j-kavindu/my24/releases/download/v1.0.1/My24-v1.0.1.apk)**
+## Download My 24 for Android
+
+[![Download My 24 for Android](https://img.shields.io/badge/Download_My_24-Android_APK-28B6E8?style=for-the-badge&logo=android&logoColor=white)](https://github.com/j-kavindu/my24/releases/latest/download/My24.apk)
+
+**[Download APK directly](https://github.com/j-kavindu/my24/releases/latest/download/My24.apk)** · [Version history](https://github.com/j-kavindu/my24/releases)
+
+No GitHub account is required. This link downloads the `My24.apk` asset from the latest public release.
+
 
 ## Features
 
@@ -40,8 +47,8 @@ An internet connection is needed to download the APK and load advertisements. Co
 
 ## Installation
 
-1. Open the [v1.0.1 release](https://github.com/j-kavindu/my24/releases/tag/v1.0.1).
-2. Download **My24-v1.0.1.apk** from Assets.
+1. Tap [Download My 24 for Android](https://github.com/j-kavindu/my24/releases/latest/download/My24.apk).
+2. Wait for **My24.apk** to finish downloading.
 3. Open the downloaded file on your Android device.
 4. If Android requests it, temporarily allow **Install unknown apps** for the browser or file manager you used. Wording varies by device.
 5. Review the installation prompt and install My 24.
@@ -80,3 +87,7 @@ For questions or reproducible issues, use this repository's Issues tab. Never in
 ## Disclaimer
 
 This release is supplied as-is. Review device warnings and the advertising disclosure before installation. Public availability of the APK does not grant an open-source license to the app or imply Google Play review.
+
+## Future release downloads
+
+Every future public production release marked Latest must include the exact asset filename **My24.apk**. Keep the signed binary unchanged when copying it to that filename. Versioned assets may also be retained. Drafts and pre-releases do not provide the production latest download. Test the permanent URL after each publication and compare its checksum with the intended APK.
