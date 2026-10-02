@@ -1,0 +1,39 @@
+# Gradle and build output
+.gradle/
+.kotlin/
+**/build/
+/out/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.class
+*.dex
+*.apk
+*.aab
+*.ap_
+
+# Local Android SDK and IDE configuration
+local.properties
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Signing material and credentials
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+key.properties
+signing.properties
+credentials.properties
+secrets.properties
+.env
+.env.*
+!.env.example
+
+# Local service configuration: review before publishing
+google-services.json
