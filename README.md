@@ -16,7 +16,12 @@ The developer reports that the supplied signed release APK has been tested. This
 
 ## Screenshots
 
-Screenshots have not yet been provided. This section will be updated with genuine app screenshots when available.
+Genuine in-app screenshots will be added here when available. Development and signing screens are not used as app previews.
+
+| Preview | Status |
+| --- | --- |
+| Main app screen | Screenshot pending |
+| Analytics access screen | Screenshot pending |
 
 ## Android requirements
 
