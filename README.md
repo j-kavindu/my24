@@ -16,12 +16,13 @@ The developer reports that the supplied signed release APK has been tested. This
 
 ## Screenshots
 
-Genuine in-app screenshots will be added here when available. Development and signing screens are not used as app previews.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/j-kavindu/my24/main/my24-home.jpg" width="230" alt="My 24 home screen with focus timer and daily tracking">
+  <img src="https://raw.githubusercontent.com/j-kavindu/my24/main/my24-analytics.jpg" width="230" alt="My 24 analytics screen with productivity and category time distribution">
+  <img src="https://raw.githubusercontent.com/j-kavindu/my24/main/my24-goals.jpg" width="230" alt="My 24 goals screen with countdowns and milestones">
+</p>
 
-| Preview | Status |
-| --- | --- |
-| Main app screen | Screenshot pending |
-| Analytics access screen | Screenshot pending |
+Screenshots supplied by the developer. Displayed figures and goal entries illustrate the app interface.
 
 ## Android requirements
 
