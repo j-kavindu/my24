@@ -2,7 +2,7 @@
 
 A native Android productivity and daily planning app built with Kotlin and Jetpack Compose.
 
-**[Download My 24 v1.0.0](https://github.com/j-kavindu/my24/releases/tag/v1.0.0)** · **[Download APK](https://github.com/j-kavindu/my24/releases/download/v1.0.0/My24-v1.0.0.apk)**
+**[Download My 24 v1.0.1](https://github.com/j-kavindu/my24/releases/tag/v1.0.1)** · **[Download APK](https://github.com/j-kavindu/my24/releases/download/v1.0.1/My24-v1.0.1.apk)**
 
 ## Features
 
@@ -30,7 +30,7 @@ Genuine in-app screenshots will be added here when available. Development and si
 | App name | My 24 |
 | Package ID | `com.kavindu.my24` |
 | App version | 1.0 |
-| Release tag | `v1.0.0` |
+| Release tag | `v1.0.1` |
 | Minimum Android version | Android 7.0 (API 24) |
 | Target SDK | API 36 |
 | Distribution | Direct APK download through GitHub Releases |
@@ -39,8 +39,8 @@ An internet connection is needed to download the APK and load advertisements. Co
 
 ## Installation
 
-1. Open the [v1.0.0 release](https://github.com/j-kavindu/my24/releases/tag/v1.0.0).
-2. Download **My24-v1.0.0.apk** from Assets.
+1. Open the [v1.0.1 release](https://github.com/j-kavindu/my24/releases/tag/v1.0.1).
+2. Download **My24-v1.0.1.apk** from Assets.
 3. Open the downloaded file on your Android device.
 4. If Android requests it, temporarily allow **Install unknown apps** for the browser or file manager you used. Wording varies by device.
 5. Review the installation prompt and install My 24.
@@ -58,12 +58,14 @@ These links describe Google's practices; they are not a complete app-specific pr
 
 ## Version and binary integrity
 
-The initial public release is **My 24 v1.0.0**, containing the developer-supplied signed APK with app version **1.0**. The APK is published unchanged, with only its download filename renamed.
+The latest distribution revision is **My 24 v1.0.1**, containing the developer-supplied signed APK with app version **1.0**. The APK is published unchanged, with only its download filename renamed.
 
-SHA-256 for `My24-v1.0.0.apk`:
+**Version note:** The new APK still embeds versionName `1.0` and versionCode `1`. `v1.0.1` identifies this GitHub distribution revision. The original [v1.0.0 release](https://github.com/j-kavindu/my24/releases/tag/v1.0.0) remains available. No specific feature changes have been independently verified.
+
+SHA-256 for `My24-v1.0.1.apk`:
 
 ```text
-8f865f9ff6ecaffdb749ddd2af697a20bb1ba042a72eb1633b3c5295453445fe
+ea50685c696c95545f16324d5d4f9b738416ac73740b422021d3a7ea4b53dbe4
 ```
 
 A matching checksum confirms byte-for-byte consistency with this release file; it does not establish that an app is safe. Signing certificates embedded in the APK are public verification data, not private signing keys.
